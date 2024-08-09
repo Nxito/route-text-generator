@@ -1,0 +1,12 @@
+{
+    "name": "generate-project-tree",
+    "version": "1.0.0",
+    "description": "Genera un archivo Markdown con la estructura de carpetas del proyecto.",
+    "main": "index.js",
+    "scripts": {
+      "tree": "node index.js"
+    },
+    "author": "Anxo Vilar Beiras",
+    "license": "MIT"
+  }
+  

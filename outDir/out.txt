@@ -1,0 +1,7 @@
+.
+├── outDir/
+│   └── out.txt
+├── .ignore
+├── index.js
+├── package.json
+└── Readme.md

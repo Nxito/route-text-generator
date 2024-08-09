@@ -1,0 +1,17 @@
+# Archivos y carpetas a excluir
+
+# Carpeta de configuración de git
+.git
+
+# Carpeta de dependencias de Node.js
+node_modules
+
+# Archivos de caché
+*.log
+*.tmp
+
+# Carpeta de compilación
+dist
+
+# Archivos de sistema
+.DS_Store
